@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "module": "nodenext",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "strictPropertyInitialization": false,
+    "sourceMap": true,
+    "target": "ESNext",
+    "lib": [
+      "es5",
+      "es6",
+      "dom",
+      "es2015.collection"
+    ]
+  },
+  "include": [
+    "src/api"
+  ],
+
+}

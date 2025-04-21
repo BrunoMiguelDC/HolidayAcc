@@ -1,0 +1,32 @@
+{
+    "reservationNum": "1",
+    "startDate": "2024-01-13",
+    "endDate": "2024-01-15",
+    "client":{
+        "username": "Ines_Godinho123",
+        "name": "Ines Godingo"
+    },
+    "period":{
+        "periodNum": "1",
+        "startDate": "2024-01-13",
+        "endDate": "2024-01-15",
+        "availableFrom": "2024-01-13"
+    },
+    "apartmentShortDTO":{
+        "apartmentId": "231",
+        "name": "1- Ubik",
+        "location": "Philip K. Dick",
+        "picture": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Types%20Of%20Homes/Stock-Gray-Ranch-Style-Home-AdobeStock_279953994-copy.jpeg",
+        "price": "5000",
+        "available": "true"
+    },
+    "review":{
+        "text": "very good would come back again",
+        "rating": "5"
+    },
+    "state": {
+        "name": "CANCELED",
+        "startDate": "2023-12-30",
+        "endDate": "2023-12-28"
+    }
+}

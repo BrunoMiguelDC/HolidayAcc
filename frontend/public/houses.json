@@ -1,0 +1,112 @@
+[
+    {
+        "apartmentId": "1",
+        "picture": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Types%20Of%20Homes/Stock-Gray-Ranch-Style-Home-AdobeStock_279953994-copy.jpeg",
+        "name": "1- Ubik",
+        "location": "Philip K. Dick",
+        "description": "Ubik, written in 1966 and published in 1969, is one of Philip K. Dick's masterpieces (The Three Stigmata of Plamer Eldritch is another one). Ubik is the first novel to introduce spiritual elements that will culminate in his last novels VALIS, the Divine Invasion and the Transmigration of Timothy Archer. According to movie industry rumor Ubik could be the next big PKD movie project. Philip K. Dick himself wrote a screenplay for Ubik in 1974 but it was never made into a movie. PKD was hoping that it would by sending 'the novel to the agent of Victoria Principal- whom he revered - in hope that she'd wind up reading it.'(Tim Powers in the introduction to Ubik: The Screenplay). Ubik was expanded and adapted from the short story 'What the Dead Men Say' published in Worlds of Tomorrow in 1964. Ubik is one of the most published books of Philip K Dick in the world.",
+        "price": 320,
+        "isAvailable": true
+    },
+    {
+        "apartmentId": "2",
+        "picture": "https://mygate.com/wp-content/uploads/2023/07/110.jpg",
+        "name": "2- Do Androids Dream of Electric Sheep?",
+        "location": "Philip K. Dick",
+        "description": "It was January 2021, and Rick Deckard had a license to kill. Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then...'retire' them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!",
+        "price": 231,
+        "isAvailable": false
+    },
+    {
+        "apartmentId": "3",
+        "picture": "https://i.pinimg.com/564x/fe/29/8a/fe298a70a49d93f50c62ae40c5ecce3a.jpg",
+        "name": "3- The Man in the High Castle",
+        "location": "Philip K. Dick",
+        "description": "The Man in the High Castle is an alternate history novel by American writer Philip K. Dick. Published and set in 1962, the novel takes place fifteen years after an alternative ending to World War II, and concerns intrigues between the victorious Axis Powers—primarily, Imperial Japan and Nazi Germany—as they rule over the former United States, as well as daily life under the resulting totalitarian rule. The Man in the High Castle won the Hugo Award for Best Novel in 1963. Beginning in 2015, the book was adapted as a multi-season TV series, with Dick's daughter, Isa Dick Hackett, serving as one of the show's producers. Reported inspirations include Ward Moore's alternate Civil War history, Bring the Jubilee (1953), various classic World War II histories, and the I Ching (referred to in the novel). The novel features a 'novel within the novel' comprising an alternate history within this alternate history wherein the Allies defeat the Axis (though in a manner distinct from the actual historical outcome).",
+        "price": 6546,
+        "isAvailable": true
+    },
+    {
+        "apartmentId": "4",
+        "picture": "https://images.adsttc.com/media/images/5e1d/02c3/3312/fd58/9c00/06e9/large_jpg/NewHouse_SA_Photo_01.jpg?1578959519",
+        "name": "4- Ubik",
+        "location": "Philip K. Dick",
+        "description": "Ubik, written in 1966 and published in 1969, is one of Philip K. Dick's masterpieces (The Three Stigmata of Plamer Eldritch is another one). Ubik is the first novel to introduce spiritual elements that will culminate in his last novels VALIS, the Divine Invasion and the Transmigration of Timothy Archer. According to movie industry rumor Ubik could be the next big PKD movie project. Philip K. Dick himself wrote a screenplay for Ubik in 1974 but it was never made into a movie. PKD was hoping that it would by sending 'the novel to the agent of Victoria Principal- whom he revered - in hope that she'd wind up reading it.'(Tim Powers in the introduction to Ubik: The Screenplay). Ubik was expanded and adapted from the short story 'What the Dead Men Say' published in Worlds of Tomorrow in 1964. Ubik is one of the most published books of Philip K Dick in the world.",
+        "price": 320,
+        "isAvailable": false
+    },
+    {
+        "apartmentId": "5",
+        "picture": "https://www.travelandleisure.com/thmb/5KH1_3dKLruIyfz8XLdgLtuMp6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-hidden-haven-villa-south-africa-airbnb-NEWBNBCAT0123-0e3c6ef5dce0490aac7dd5cd92b27f33.jpg",
+        "name": "5- Do Androids Dream of Electric Sheep?",
+        "location": "Philip K. Dick",
+        "description": "It was January 2021, and Rick Deckard had a license to kill. Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then...'retire' them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!",
+        "price": 8768,
+        "isAvailable": false
+    },
+    {
+        "apartmentId": "6",
+        "picture": "https://empire-s3-production.bobvila.com/slides/45183/original/iStock-1312034472.-old-homes-airbnb.jpg?1666061562",
+        "name": "6- The Man in the High Castle",
+        "location": "Philip K. Dick",
+        "description": "The Man in the High Castle is an alternate history novel by American writer Philip K. Dick. Published and set in 1962, the novel takes place fifteen years after an alternative ending to World War II, and concerns intrigues between the victorious Axis Powers—primarily, Imperial Japan and Nazi Germany—as they rule over the former United States, as well as daily life under the resulting totalitarian rule. The Man in the High Castle won the Hugo Award for Best Novel in 1963. Beginning in 2015, the book was adapted as a multi-season TV series, with Dick's daughter, Isa Dick Hackett, serving as one of the show's producers. Reported inspirations include Ward Moore's alternate Civil War history, Bring the Jubilee (1953), various classic World War II histories, and the I Ching (referred to in the novel). The novel features a 'novel within the novel' comprising an alternate history within this alternate history wherein the Allies defeat the Axis (though in a manner distinct from the actual historical outcome).",
+        "price": 900,
+        "isAvailable": true
+    },
+    {
+        "apartmentId": "7",
+        "picture": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Types%20Of%20Homes/Stock-Gray-Ranch-Style-Home-AdobeStock_279953994-copy.jpeg",
+        "name": "7- Ubik",
+        "location": "Philip K. Dick",
+        "description": "Ubik, written in 1966 and published in 1969, is one of Philip K. Dick's masterpieces (The Three Stigmata of Plamer Eldritch is another one). Ubik is the first novel to introduce spiritual elements that will culminate in his last novels VALIS, the Divine Invasion and the Transmigration of Timothy Archer. According to movie industry rumor Ubik could be the next big PKD movie project. Philip K. Dick himself wrote a screenplay for Ubik in 1974 but it was never made into a movie. PKD was hoping that it would by sending 'the novel to the agent of Victoria Principal- whom he revered - in hope that she'd wind up reading it.'(Tim Powers in the introduction to Ubik: The Screenplay). Ubik was expanded and adapted from the short story 'What the Dead Men Say' published in Worlds of Tomorrow in 1964. Ubik is one of the most published books of Philip K Dick in the world.",
+        "price": 222,
+        "isAvailable": true
+    },
+    {
+        "apartmentId": "8",
+        "picture": "https://mygate.com/wp-content/uploads/2023/07/110.jpg",
+        "name": "8- Do Androids Dream of Electric Sheep?",
+        "location": "Philip K. Dick",
+        "description": "It was January 2021, and Rick Deckard had a license to kill. Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then...'retire' them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!",
+        "price": 320,
+        "isAvailable": false
+    },
+    {
+        "apartmentId": "9",
+        "picture": "https://i.pinimg.com/564x/fe/29/8a/fe298a70a49d93f50c62ae40c5ecce3a.jpg",
+        "name": "9- The Man in the High Castle",
+        "location": "Philip K. Dick",
+        "description": "The Man in the High Castle is an alternate history novel by American writer Philip K. Dick. Published and set in 1962, the novel takes place fifteen years after an alternative ending to World War II, and concerns intrigues between the victorious Axis Powers—primarily, Imperial Japan and Nazi Germany—as they rule over the former United States, as well as daily life under the resulting totalitarian rule. The Man in the High Castle won the Hugo Award for Best Novel in 1963. Beginning in 2015, the book was adapted as a multi-season TV series, with Dick's daughter, Isa Dick Hackett, serving as one of the show's producers. Reported inspirations include Ward Moore's alternate Civil War history, Bring the Jubilee (1953), various classic World War II histories, and the I Ching (referred to in the novel). The novel features a 'novel within the novel' comprising an alternate history within this alternate history wherein the Allies defeat the Axis (though in a manner distinct from the actual historical outcome).",
+        "price": 978,
+        "isAvailable": false
+    },
+    {
+        "apartmentId": "10",
+        "picture": "https://images.adsttc.com/media/images/5e1d/02c3/3312/fd58/9c00/06e9/large_jpg/NewHouse_SA_Photo_01.jpg?1578959519",
+        "name": "10- Ubik",
+        "location": "Philip K. Dick",
+        "description": "Ubik, written in 1966 and published in 1969, is one of Philip K. Dick's masterpieces (The Three Stigmata of Plamer Eldritch is another one). Ubik is the first novel to introduce spiritual elements that will culminate in his last novels VALIS, the Divine Invasion and the Transmigration of Timothy Archer. According to movie industry rumor Ubik could be the next big PKD movie project. Philip K. Dick himself wrote a screenplay for Ubik in 1974 but it was never made into a movie. PKD was hoping that it would by sending 'the novel to the agent of Victoria Principal- whom he revered - in hope that she'd wind up reading it.'(Tim Powers in the introduction to Ubik: The Screenplay). Ubik was expanded and adapted from the short story 'What the Dead Men Say' published in Worlds of Tomorrow in 1964. Ubik is one of the most published books of Philip K Dick in the world.",
+        "price": 4123,
+        "isAvailable": false
+    },
+    {
+        "apartmentId": "11",
+        "picture": "https://www.travelandleisure.com/thmb/5KH1_3dKLruIyfz8XLdgLtuMp6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-hidden-haven-villa-south-africa-airbnb-NEWBNBCAT0123-0e3c6ef5dce0490aac7dd5cd92b27f33.jpg",
+        "name": "11- Do Androids Dream of Electric Sheep?",
+        "location": "Philip K. Dick",
+        "description": "It was January 2021, and Rick Deckard had a license to kill. Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then...'retire' them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!",
+        "price": 97,
+        "isAvailable": true
+    },
+    {
+        "apartmentId": "12",
+        "picture": "https://empire-s3-production.bobvila.com/slides/45183/original/iStock-1312034472.-old-homes-airbnb.jpg?1666061562",
+        "name": "12- The Man in the High Castle",
+        "location": "Philip K. Dick",
+        "description": "The Man in the High Castle is an alternate history novel by American writer Philip K. Dick. Published and set in 1962, the novel takes place fifteen years after an alternative ending to World War II, and concerns intrigues between the victorious Axis Powers—primarily, Imperial Japan and Nazi Germany—as they rule over the former United States, as well as daily life under the resulting totalitarian rule. The Man in the High Castle won the Hugo Award for Best Novel in 1963. Beginning in 2015, the book was adapted as a multi-season TV series, with Dick's daughter, Isa Dick Hackett, serving as one of the show's producers. Reported inspirations include Ward Moore's alternate Civil War history, Bring the Jubilee (1953), various classic World War II histories, and the I Ching (referred to in the novel). The novel features a 'novel within the novel' comprising an alternate history within this alternate history wherein the Allies defeat the Axis (though in a manner distinct from the actual historical outcome).",
+        "price": 969679,
+        "isAvailable": true
+    }
+
+
+]

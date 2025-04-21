@@ -1,0 +1,43 @@
+[
+    {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel enim at nisi mollis tristique quis sit amet tellus. Nullam metus nisl, semper eu faucibus ac, commodo eget ligula.",
+        "rating": "4.5",
+        "author": {
+            "username": "Philip K. Dick",
+            "name": "Philip K. Dick"
+        }
+    },
+    {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel enim at nisi mollis tristique quis sit amet tellus. Nullam metus nisl, semper eu faucibus ac, commodo eget ligula.",
+        "rating": "4",
+        "author": {
+            "username": "Bill Gates",
+            "name": "Bill Gates"
+        }
+    },
+    {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel enim at nisi mollis tristique quis sit amet tellus. Nullam metus nisl, semper eu faucibus ac, commodo eget ligula.",
+        "rating": "5",
+        "author": {
+            "username": "Ines Godinho",
+            "name": "Ines Godinho"
+        }
+    },
+    {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel enim at nisi mollis tristique quis sit amet tellus. Nullam metus nisl, semper eu faucibus ac, commodo eget ligula.",
+        "rating": "3",
+        "author": {
+            "username": "Imaginaria Kumar",
+            "name": "Imaginaria Kumar"
+        }
+    },
+    {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel enim at nisi mollis tristique quis sit amet tellus. Nullam metus nisl, semper eu faucibus ac, commodo eget ligula.",
+        "rating": "2.5",
+        "author": {
+            "username": "Philip K. Dick",
+            "name": "Philip K. Dick"
+        }
+
+    }
+]

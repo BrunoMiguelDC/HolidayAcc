@@ -1,0 +1,67 @@
+[
+{
+    "reservationId": "2",
+    "startDate": "2024-01-13",
+    "endDate": "2024-01-15",
+    "state": {
+        "name": "UNDER_CONSIDERATION"
+    },
+    "apartmentShortDTO":{
+        "apartmentId": "231",
+        "name": "1- Ubik",
+        "location": "Philip K. Dick",
+        "picture": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Types%20Of%20Homes/Stock-Gray-Ranch-Style-Home-AdobeStock_279953994-copy.jpeg",
+        "price": "5000",
+        "available": "true"
+    }
+},
+{
+    "reservationId": "1",
+    "startDate": "2024-01-13",
+    "endDate": "2024-01-15",
+    "state": {
+        "name": "CANCELLED"
+    },
+    "apartmentShortDTO":{
+        "apartmentId": "231",
+        "name": "1- Ubik",
+        "location": "Philip K. Dick",
+        "picture": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Types%20Of%20Homes/Stock-Gray-Ranch-Style-Home-AdobeStock_279953994-copy.jpeg",
+        "price": "5000",
+        "available": "true"
+    }
+},
+{
+    "reservationId": "3",
+    "startDate": "2024-01-13",
+    "endDate": "2024-01-15",
+    "state": {
+        "name": "BOOKED"
+    },
+    "apartmentShortDTO":{
+        "apartmentId": "231",
+        "name": "1- Ubik",
+        "location": "Philip K. Dick",
+        "picture": "https://mygate.com/wp-content/uploads/2023/07/110.jpg",
+        "price": "5000",
+        "available": "true"
+    }
+},
+{
+    "reservationId": "1",
+    "startDate": "2024-01-13",
+    "endDate": "2024-01-15",
+    "state": {
+        "name": "CLOSED"
+    },
+    "apartmentShortDTO":{
+        "apartmentId": "231",
+        "name": "1- Ubik",
+        "location": "Philip K. Dick",
+        "picture": "https://i.pinimg.com/564x/fe/29/8a/fe298a70a49d93f50c62ae40c5ecce3a.jpg",
+        "price": "5000",
+        "available": "true"
+    }
+}
+
+]

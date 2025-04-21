@@ -1,0 +1,14 @@
+{
+    "name": "1- Ubik",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel enim at nisi mollis tristique quis sit amet tellus. Nullam metus nisl, semper eu faucibus ac, commodo eget ligula. Phasellus et blandit lacus. Nam tristique facilisis nulla, non auctor risus vulputate vel. Quisque ut laoreet mauris, et vestibulum leo. Cras elementum felis urna, non accumsan eros commodo id. Sed ut magna a lacus condimentum pharetra. Nullam ligula purus, accumsan ac condimentum quis, pharetra hendrerit tellus. Pellentesque id congue tortor. Suspendisse potenti. Maecenas tincidunt ultricies libero, eget interdum arcu vulputate sollicitudin. Ut eget velit mollis, blandit nisi nec, semper neque. Fusce sed nunc sollicitudin, congue ligula id, tristique risus. Nullam blandit, metus vel consequat cursus, sapien tellus facilisis neque, at consectetur justo arcu fermentum ligula. Aliquam ultrices bibendum nisi non maximus.",
+    "location": "Lisboa",
+    "amenities": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel enim at nisi mollis tristique quis sit amet tellus. Nullam metus nisl, semper eu faucibus ac, commodo eget ligula.",
+    "pictures": ["https://a0.muscache.com/im/pictures/81d71177-10f1-4c17-878c-82d2e51ef643.jpg?im_w=1200", "https://a0.muscache.com/im/pictures/6ddd0b9f-51a4-45a3-b59b-235e67f48e35.jpg?im_w=1200", "https://a0.muscache.com/im/pictures/9457df67-cb8f-480e-b3bb-98b269ace9bf.jpg?im_w=1200"],
+    "price": "50000",
+    "isAvailable": "true",
+    "state": "CANCELED",
+    "owner": {
+        "username": "Bill Gates",
+        "name": "Bill Gates"
+    }
+}
